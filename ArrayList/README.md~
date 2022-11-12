@@ -1,0 +1,13 @@
+# ArrayList Implementation
+implemented my own version of Java's ArrayList class
+includes methods:
+    addAtIndex(int index, T data)
+    addToFront(T data)
+    addToBack(T data)
+    removeAtIndex(int index)
+    removeFromFront()
+    removeFromBack()
+    get(int index)
+    isEmpty()
+    clear()
+Also includes unit testing files StudentTest and ArrayListTest
